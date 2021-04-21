@@ -4,11 +4,11 @@
 
 ### Data analysis projects 
 
-[Project 1. Predicting cancer risk with Machine Learning](/sample_page)
+[Project 1. Predicting Cancer Risk with Machine Learning](/sample_page)
 <img src="images/final_project_ml_plot.png?raw=true"/>
 
 ---
-[Project 2. Publish or perish](/pdf/sample_presentation.pdf)
+[Project 2. Publish or Perish](/pdf/sample_presentation.pdf)
 <img src="images/Publish_or_perish.png?raw=true"/>
 
 ---
@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Project 1 Predicting Cancer Risk with Machine Learning](https://github.com/nrius/Project_5_Predicting_cancer)
+- [Project 2 Publish or Perish](https://github.com/nrius/Project4_Publish_or_Perish)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
