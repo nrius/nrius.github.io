@@ -4,10 +4,10 @@
 
 ### Data analysis projects 
 
-[Project 1. Predicting Cancer Risk with Machine Learning](https://github.com/nrius/Project_5_Predicting_cancer)
+[Project 1. Predicting Cancer Risk with Machine Learning](/sample_page)
 <img src="images/final_project_ml_plot.png?raw=true"/>
 
-(https://github.com/nrius/Project_5_Predicting_cancer)
+[GitHub Link](https://github.com/nrius/Project_5_Predicting_cancer)
 
 ---
 
