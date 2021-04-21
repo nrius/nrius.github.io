@@ -5,7 +5,7 @@
 ### Data analysis projects 
 
 [Project 1. Predicting cancer risk with Machine Learning](/sample_page)
-<img src="images/final_project_ml_polt.png?raw=true"/>
+<img src="images/final_project_ml_plot.png?raw=true"/>
 
 ---
 [Project 2. Publish or perish](/pdf/sample_presentation.pdf)
